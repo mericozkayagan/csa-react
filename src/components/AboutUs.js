@@ -55,6 +55,12 @@ const AboutUs = () => {
 
 
       </div>
+      <div className=''>
+          <section>
+            <h1>Tanıtım Videosu</h1>
+            <iframe width="1120" height="630" src="https://www.youtube.com/embed/gLuow4SB0XU?si=VQivTtmrMJfxgFnO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          </section>
+        </div>
     </div>
   )
 }

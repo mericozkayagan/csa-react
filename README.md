@@ -1,6 +1,2 @@
 # Single-Page-Application
-
-
  
-
-
